@@ -1,4 +1,4 @@
-# VEX EXP Robot – Object Retrieval Automation
+# VEX EXP Robot – Object Retrieval Automation 
 This project is a VEX EXP robot program designed to detect, retrieve, and return objects. It's ideal for scenarios such as table-top cleaning or assisting users with limited mobility.
 
 ## Features
@@ -24,9 +24,9 @@ Step 3: Download & Run:
 - Once downloaded, press Run on the robot.
 
 ### Use Cases
-Automated tabletop trash collection
-
-Assisting individuals with limited mobility by retrieving nearby objects
+Solving real world problems through robotics:
+- Automated tabletop trash collection
+- Assisting individuals with limited mobility by retrieving nearby objects
 
 ### Sources & References
 VEX EXP Knowledge Base: https://kb.vex.com/hc/en-us/categories/4414790180884-EXP
