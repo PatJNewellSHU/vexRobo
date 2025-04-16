@@ -1,14 +1,34 @@
-To Build the code improt the github code to the vex exp editor and connect to the vex robot brain using a usb c cable once connected you should download the code to the robot and press run.
-The code should perform all tasks show in the video however some attempets are needed as it is not always 100% 
-The tasks the robot is able to perform is as below:
+# VEX EXP Robot – Object Retrieval Automation
+This project is a VEX EXP robot program designed to detect, retrieve, and return objects. It's ideal for scenarios such as table-top cleaning or assisting users with limited mobility.
 
-Find an object on a table and move towards it
-Pick up the found Object
-Return the Object back to starting position
-If object foud is off the table it will spin around and continue searching
+## Features
+The robot is programmed to:
+- Search for an object on a table.
+- Move towards the detected object.
+- Pick up the object using its onboard mechanism.
+- Return the object to its original starting position.
+- If the object is off the table, the robot will spin and continue searching until a valid object is found.
 
-It performs these tasks allowing for rubbish collectiono of a table or bringing objects to possibly inpaired users
+⚠️ Please note: While the robot performs all tasks as demonstrated in the project video, some attempts may require retries due to hardware or sensor variability.
+
+## How to Build & Run
+Step 1. Import the Code:
+- Clone or download this repository.
+- Open the project using the VEXcode EXP editor.
+  
+Step 2: Connect to the Robot:
+- Use a USB-C cable to connect the VEX EXP Brain to your computer.
+  
+Step 3: Download & Run:
+- Download the code to the robot via the VEXcode EXP interface.
+- Once downloaded, press Run on the robot.
+
+### Use Cases
+Automated tabletop trash collection
+
+Assisting individuals with limited mobility by retrieving nearby objects
+
+### Sources & References
+VEX EXP Knowledge Base: https://kb.vex.com/hc/en-us/categories/4414790180884-EXP
 
 
-sources:
-https://kb.vex.com/hc/en-us/categories/4414790180884-EXP = vex exp library
